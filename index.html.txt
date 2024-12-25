@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Ahmed Salah</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .contact-info a {
+            color: #0077b5;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Portfolio - Ahmed Salah</h1>
+        <p>Seeking part-time or full-time opportunities in Civil Engineering, Mining, Geoscience, or Business Development.</p>
+    </header>
+
+    <section class="section">
+        <h2>About Me</h2>
+        <p><strong>Ahmed Salah</strong></p>
+        <p>Location: El Merag AlSofly, Al Maadi, Cairo, Egypt</p>
+        <p>Phone: +201068494611</p>
+        <p>Email: <a href="mailto:ahm_salah200@yahoo.com">ahm_salah200@yahoo.com</a></p>
+        <p><a href="#">LinkedIn Profile</a></p>
+    </section>
+
+    <section class="section">
+        <h2>Work Experience</h2>
+        <h3>R&D Manager</h3>
+        <p>Ministry of Trade & Industry, Mining Industries Technology Center</p>
+        <p>Mar 2019 - Present</p>
+        <ul>
+            <li>Conducted research and development studies.</li>
+            <li>Developed value chain strategies for mining industries.</li>
+            <li>Proposed and implemented business development plans.</li>
+            <li>Established international partnerships and cooperation.</li>
+            <li>Delivered training programs for youth in the mining sector.</li>
+            <li>Supervised raw material evaluation units.</li>
+        </ul>
+
+        <h3>Quality Manager</h3>
+        <p>Oct 2016 - Feb 2019</p>
+        <ul>
+            <li>Managed quality planning and assurance.</li>
+            <li>Conducted feasibility studies for mining projects.</li>
+            <li>Supervised geology and mining activities.</li>
+            <li>Created technical reports on national mineral trade.</li>
+        </ul>
+
+        <h3>Technical Geoscientist</h3>
+        <p>Jan 2013 - Sep 2016</p>
+        <ul>
+            <li>Conducted raw material testing and evaluation.</li>
+            <li>Managed CE Mark program implementation.</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Education</h2>
+        <p>Post Graduate Studies in Geoscience - Ain Shams University (2018 - Present)</p>
+        <p>Bachelor's Degree in Geoscience - Ain Shams University (2005 - 2009)</p>
+    </section>
+
+    <section class="section">
+        <h2>Certifications & Training</h2>
+        <ul>
+            <li>Professional Data Analysis Nanodegree (Udacity)</li>
+            <li>Quality Management (National Quality Institute)</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>Lean Management</li>
+            <li>Data Analysis & Reporting</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Languages</h2>
+        <ul>
+            <li>Arabic (Native)</li>
+            <li>English (Advanced, C1 Level)</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>References</h2>
+        <p>Available upon request.</p>
+    </section>
+</body>
+</html>
